@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yw5wI58quC2RaeaDbiJaQeoAm4hJfcP3194cgzRthRtlUTYmJFE74QbhEeurngLdOLiRhVdYodCq6c6mnFpb/g==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\ITITS\\L2_Krytologi\\Install_Cert\\Install_Cert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Florent\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Florent\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Florent\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Florent\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
